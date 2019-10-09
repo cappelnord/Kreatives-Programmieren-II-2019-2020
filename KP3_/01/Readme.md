@@ -8,9 +8,9 @@ Notizen zur ersten Sitzung *Kreatives Programmieren 3* und Vorstellung des Modul
 
 Als Programmierumgebung werden wir haptsächlich [SuperCollider](https://supercollider.github.io/) einsetzen (später auch [Processing](https://processing.org/)). Einzelne Themen werden in der Regel jeweils über 3 Wochen behandelt.
 
-* 1. Woche: Einführung in die Thematik durch den Dozenten
-* 2. Woche: Kurzreferate/Vertiefung/Diskussion
-* 3. Woche: Vorstellung/Besprechung der Aufgaben
+* Woche 1: Einführung in die Thematik durch den Dozenten
+* Woche 2: Kurzreferate/Vertiefung/Diskussion
+* Woche 3: Vorstellung/Besprechung der Aufgaben
 * Die Abgabe der Übungsaufgabe muss bis zum Beginn des nächsten Blocks erfolgen.
 
 In *Kreatives Programmieren 3* sollen v.a. generative Techniken besprochen werden. Übungsaufgaben sollen via Git Repository abgegeben werden.
