@@ -42,7 +42,7 @@ Die Bewertung findet hauptsächlich im Rahmen der Veranstaltung *Kreatives Progr
 
 ## Hausaufgabe zum 16.10.2019
 
-* Lesen und vorbereiten: Roads, Curtis. 2015. *"Generative Strategies." In Composing Electronic Music*, Oxford University Press, 338-368. 
+* Lesen und vorbereiten: Roads, Curtis (2015). Generative Strategies. *Composing Electronic Music*, Oxford University Press, 338-368. 
 * Überlegt zu welchen Terminen ihr die Übung sinnvoll unterbringen könnt.
 
 ## Ausblick und Wünsche
@@ -54,4 +54,4 @@ Die Bewertung findet hauptsächlich im Rahmen der Veranstaltung *Kreatives Progr
 
 ## Weiteres
 
-* Zum Begriff *meso*-Struktur z.B. Roads, Curtis. 2015. *"Generative Strategies." In Composing Electronic Music*, Oxford University Press, 47-52.
+* Zum Begriff *meso*-Struktur z.B. Roads, Curtis. (2015). The Nature of Sound. *Composing Electronic Music*, Oxford University Press, 47-52.

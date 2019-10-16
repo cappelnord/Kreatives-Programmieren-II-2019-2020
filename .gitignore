@@ -1,0 +1,7 @@
+# MacOS stuff
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Folders to organize materials which can't be pushed to GitHub
+*_private/
