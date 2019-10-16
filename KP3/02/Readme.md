@@ -4,13 +4,13 @@ Weitere Besprechung zum Ablauf des Moduls und zur Abgabe von Übungsaufgaben. Di
 
 ## GitHub
 
-* Für Übungsaufgaben ein Privates Repository anlegen und Patrick (cappelnord) als 'Mitarbeiter'.
-* Wer in den Materialien Fehler findet oder Ergänzungen machen möchte darf dies per Pull Request machen.
-* Referat-Handouts auch per Pull-Request in die Sitzungs-Dokumente einbringen.
+* Für Übungsaufgaben ein privates Repository anlegen und Patrick ([cappelnord](https://github.com/cappelnord)) als 'Collaborator'.
+* Wer in den Materialien Fehler findet oder Ergänzungen machen möchte darf dies gerne per Pull Request tun!
+* Materialien, Links, etc. von Referaten sollen auch per Pull Request in die jeweilige Sitzung eingebracht werden.
 
 ## Übung
 
-* Mittwoch 15:30-17:00. Bis auf weiteres. 1. Sitzung nächste Woche.
+* Mittwoch 15:30-17:00. Bis auf Weiteres. 1. Sitzung nächste Woche.
 
 ## Diskussion
 
@@ -18,7 +18,7 @@ Roads, Curtis (2015). Generative Strategies. *Composing Electronic Music*, Oxfor
 
 **[Hörbeispiele](https://global.oup.com/us/companion.websites/9780195373240/ch11/)**
 
-Einige Fragenstellungen/Themen die diskutiert wurden; auch einige Themen über die man noch mal nachdenken kann.
+Einige Fragenstellungen/Themen die diskutiert wurden oder über die man noch mal nachdenken kann.
 
 * Gründe zur Nutzung generativer Techniken.
 * Was bezeichnet man als generative Techniken?
