@@ -1,4 +1,6 @@
-# Semesterüberblick Creative Coding Lab
+# Creative Coding Lab
+
+## Semesterüberblick 
 
 * 18.10.2019 - **[Überblick und Einstieg](01)**
 * 25.10.2019 - **Show & Tell**
