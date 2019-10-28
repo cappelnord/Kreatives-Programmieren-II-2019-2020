@@ -14,7 +14,7 @@
 
 * [random_stuff.scd](random_stuff.scd) *Überblick über verschiedene Techniken/Methoden um in SuperCollider mit Zufall zu arbeiten*
 * [hallo.scd](hallo.scd) *Das kleine Zufallstheater*
-* [task_01_template.scd](task_01_template) *Template für die Übungsaufgabe*
+* [task_01_template.scd](task_01_template.scd) *Template für die Übungsaufgabe*
 * [midi_send.scd](../../UEB/03/midi_send.scd) *Aus der Übung*
 
 ## Relevante Seiten in SCDoc
