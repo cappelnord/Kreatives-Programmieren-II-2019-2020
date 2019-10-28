@@ -2,8 +2,6 @@
 
 Überblick über das Arbeiten mit Zufall und Wahrscheinlichkeiten in SuperCollider.
 
-## Rückblick zur letzen Sitzung
-
 ## Einführung
 
 * Zufall
@@ -15,6 +13,9 @@
 ## Quelltext
 
 * [random_stuff.scd](random_stuff.scd) *Überblick über verschiedene Techniken/Methoden um in SuperCollider mit Zufall zu arbeiten*
+* [hallo.scd](hallo.scd) *Das kleine Zufallstheater*
+* [task_01_template.scd](task_01_template) *Template für die Übungsaufgabe*
+* [midi_send.scd](../../UEB/03/midi_send.scd) *Aus der Übung*
 
 ## Relevante Seiten in SCDoc
 
@@ -35,13 +36,14 @@
 
 ### Überlegungen bei der Hausaufgabe
 
-* Einen sich bewährenden Random Seed suchen und behalten oder 'dem Zufall überlassen'?
-
+* Einen gut klingenden Random Seed suchen oder alles 'dem Zufall überlassen'?
+* Resultate nachbearbeiten, selektieren oder alle Ergebnisse gleichwertig behandeln?
+* Wahrscheinlichkeiten so eng gestalten, dass die Zufallsoperationen keinen großen Spielraum mehr haben oder möglichst alles mögliche zulassen?
 
 ## Weiterführende Literatur
 
-* Lorrain, Denis (1989). A Panoply of Stochastic 'Cannons'. In Curtis Roads (Ed.) *The Music Machine*. Cambridge Massachusetts, The MIT Press, 351-379.
-* Knuth
+* Lorrain, Denis (1989). A Panoply of Stochastic 'Cannons'. In Curtis Roads (Ed.) *The Music Machine*. Cambridge, Mass.: The MIT Press, 351-379.
+* Knuth, Donald E. (1997). Random Numbers - Introduction. In *Art of Computer Programming, Volume 2: Seminumerical Algorithms* (Third Edition). Boston Mass.: Addison-Wesley, 1-10.
 * [Shifman, Daniel. Introduction. In *The Nature of Code*](https://natureofcode.com/book/introduction/) *Auf Grafik bezogene Aspekte von Zufall, zufälligen Bewegungen, ... in Processing*
 
 ## Weiteres

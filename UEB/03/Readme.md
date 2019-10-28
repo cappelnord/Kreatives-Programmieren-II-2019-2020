@@ -14,7 +14,7 @@ Apple bringt bereits alles mit was man braucht. Interne MIDI-Busse verstecken si
 
 ## MIDI Daten aus SuperCollider senden
 
-Siehe dann am Ende im erarbeiteten Quelltext.
+Der erarbeitete Quelltext ist in [midi_send.scd](midi_send.scd). Der Code ist auch in [task_01_template.scd](../../KP3/03/task_01_template.scd) eingeflossen.
 
 ### Relevante Seiten in SCDoc
 
