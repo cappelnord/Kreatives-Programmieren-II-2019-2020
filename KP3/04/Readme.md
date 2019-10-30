@@ -8,7 +8,7 @@ Kurzreferate zum Thema Zufall und Chaos.
 
 ## Chaos & Chaos-UGens in SuperCollider
 
-* Determinstisches Chaos: Zufällig erscheinendes Verhalten eines dynamischen Sytems, das jedoch deterministischesn Regeln erfolgt.
+* *Deterministisches Chaos ist ein zufällig erscheinendes Verhalten eines dynamischen Systems, das jedoch deterministischen Regeln folgt.* [(Wiki)](https://de.wikipedia.org/wiki/Deterministisches_Chaos)
 * [Doppelpendel](https://www.myphysicslab.com/pendulum/double-pendulum-en.html)
 * [Schmetterlingseffekt](https://de.wikipedia.org/wiki/Datei:Double_pendulum_simultaneous_realisations.ogv)
 * *ChaosGen.allSubclasses.do(_.postln)* zum Anzeigen aller ChaosGens. Am besten vorher [SC3Plugins](https://github.com/supercollider/sc3-plugins) installieren.
