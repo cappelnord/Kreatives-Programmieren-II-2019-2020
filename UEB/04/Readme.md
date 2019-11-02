@@ -1,8 +1,8 @@
 # 30.10.2019; Übung zu Kreatives Programmieren 3
 
-## Besprechung von Problemen bei Übungsaufgabe
-
 ## Patterns
+
+Einführung in Patterns und Pbind.
 
 ### Relevante Seiten in SCDoc
 
@@ -11,3 +11,7 @@
 * [Understanding Streams, Patterns and Events](http://doc.sccode.org/Tutorials/Streams-Patterns-Events1.html)
 * [Pattern Guide](http://doc.sccode.org/Tutorials/A-Practical-Guide/PG_01_Introduction.html)
 * [Pbind](http://doc.sccode.org/Classes/Pbind.html)
+
+## Weiteres
+
+In der nächsten Sitzung sollen die gängisten Pattern-Objekte besprochen werden.
