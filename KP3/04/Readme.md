@@ -8,8 +8,11 @@ Kurzreferate zum Thema Zufall und Chaos.
 
 ## Zufall in der Musik
 
-* ...
-
+* Musikalisches Würfelspiel [(Wiki)](https://en.wikipedia.org/wiki/Musikalisches_Würfelspiel) [(MOZART DICE GAME, Martin Vicián 2016)](https://mozart.vician.cz)
+* Music of Changes (1951) - John Cage [(Video)](https://www.youtube.com/watch?v=B_8-B2rNw7s)
+* Klavierstück XI (1956) - Karlheinz Stockhausen [(Video-Demonstration)](https://www.youtube.com/watch?v=ueyqTzJPUZg)
+* Game piece [(Wiki)](https://en.wikipedia.org/wiki/Game_piece_(music)) Cobra (1984) - John Zorn [(Video)](https://www.youtube.com/watch?v=UdNdSJUf_8I)
+* GENDY3 - Iannis Xenakis [(Video)](https://www.youtube.com/watch?v=5qS5lqbx9H0)
 ## Chaos & Chaos-UGens in SuperCollider
 
 * *Deterministisches Chaos ist ein zufällig erscheinendes Verhalten eines dynamischen Systems, das jedoch deterministischen Regeln folgt.* [(Wiki)](https://de.wikipedia.org/wiki/Deterministisches_Chaos)
