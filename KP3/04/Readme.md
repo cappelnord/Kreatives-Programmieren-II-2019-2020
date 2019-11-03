@@ -4,24 +4,23 @@ Kurzreferate zum Thema Zufall und Chaos.
 
 ## Pseudozufallszahlengenerator/Linearer Kongruenzgenerator
 
-Beispiele für Anwendungsgebiete von Zufallszahlen:
+### Beispiele für Anwendungsgebiete von Zufallszahlen
 
 * Simulation von Ereignissen mit bekannten Wahrscheinlichkeitsverteilungen 
 * Stochastische Algorithmen (z.B Monte-Carlo Methode)
 * Kryptographie, z.B. Generierung von Schlüsseln
 * etc..
  
-Pseudozufallszahlengenerator (PRNG)
+### Pseudozufallszahlengenerator (PRNG)
  
 * Gewinnung von Zufallszahlen über einen deterministischen Algorithmus
 * Pseudozufallszahlen nähern sich lediglich echten Zufallszahlen an und sind nicht "wirklich" zufällig
-* Begriffe: Seed(Startwert), Periode (Länge bis sich eine Zahlenfolge wiederholt), Güte (Qualität eines Algorithmus)
+* Begriffe: Seed (Startwert), Periode (Länge bis sich eine Zahlenfolge wiederholt), Güte (Qualität eines Algorithmus)
 
-Der Lineare Kongruenzgenerator
+### Der Lineare Kongruenzgenerator
 
-* sehr weit verbreiteter Algorithmus zur Generierung von Zufallszahlen
-* Algorithmus basierend auf einfachen arithmetischen Operationen zur Generierung von  
-   Gleichverteilten Zahlen  
+* Sehr weit verbreiteter Algorithmus zur Generierung von Zufallszahlen
+* Algorithmus basierend auf einfachen arithmetischen Operationen zur Generierung von gleichverteilten Zahlen 
 
 
 ## Zufall in der Musik
