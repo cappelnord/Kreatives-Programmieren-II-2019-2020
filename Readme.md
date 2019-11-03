@@ -7,3 +7,5 @@ Hier soll ein Repository mit Notizen, Materialien und Code zum Modul *Kreatives 
 * [Kreatives Programmieren 3](KP3)
 * [Creative Coding Lab](CCL)
 * [Übung](UEB)
+
+Zusätzlich eine Sammlung an (hoffentlich) hilfreichen [Code-Snippets](FAQ) die auf Anfragen von Studierenden entstanden sind.
