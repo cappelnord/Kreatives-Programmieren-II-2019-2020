@@ -40,6 +40,7 @@ Kurzreferate zum Thema Zufall und Chaos.
 ### Weiterführende Literatur
 
 * Spasov, Miroslav (2015). Using Strange Attractors to Control Sound Processing in Live Electroacoustic Composition. *Computer Music Journal, 39(3)*, 25-45. 
+* [random.org](https://www.random.org/) *Infos zu Pseudozufallszahlengeneratoren und 'echte' Zufallszahlen*
 
 ## Weiteres
 
