@@ -5,8 +5,8 @@
 * 18.10.2019 - **[Überblick und Einstieg](01)**
 * 25.10.2019 - **[Show & Tell](02)**
 * 01.11.2019 - *Fällt aus; Allerheiligen*
-* 08.11.2019 - **Crash Course: [Sonic Pi](https://sonic-pi.net/)**
-* 15.11.2019 - ...
+* 08.11.2019 - **[Crash Course: Sonic Pi](03)**
+* 15.11.2019 - **[Oscilloscope/Lissajous Music](04)**
 * 22.11.2019 - *Fällt aus*
 * 29.11.2019 - *Fällt aus; Girls' Digital Camps*
 * 06.12.2019 - ...
