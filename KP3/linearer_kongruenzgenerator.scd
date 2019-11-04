@@ -1,8 +1,8 @@
+/*
 Linearer Kongruenzgenerator
 
 Algorithmus :
 x = (a * x + c) % m;
-
 
 
 Argumente:
@@ -38,9 +38,10 @@ x(2) = (3 * 2 + 2) % 12
 x(2) = 8 % 12
 x(2) = 8
 
+*/
 
 
-// implementierung des Algorithmus innerhalb einer Funktion
+// Implementierung des Algorithmus innerhalb einer Funktion
 
 (
 f = { arg x, a, c, m;
@@ -52,15 +53,17 @@ f = { arg x, a, c, m;
 )
 
 
-// Mit hilfe von Closures lassen sich Zustände von Funktionen ausgeben
+// Mit Hilfe von Closures werden Zustand und Parameter an eine Funktion gebunden
+
 d = f.value(7, 21, 3, 17);
 d.value;
 
 
-//Zwei unterschiedliche Parametersätze zur demonstration von einer kurzen / bzw. einer langen Periode
+// Zwei unterschiedliche Parametersätze zur Demonstration von einer kurzen / bzw. einer langen Periode
 
 d = f.value(7, 21, 3, 17);
 d = f.value(12, 65539, 0, 2**31);
+
 
 // Plots und Histogramme
 
@@ -69,6 +72,7 @@ d = f.value(12, 65539, 0, 2**31);
 
 
 // Ausgabe von 100 Zufallswerten
+
 (
 100.do {
 	d.value.postln;
