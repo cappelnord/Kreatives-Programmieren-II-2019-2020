@@ -22,6 +22,9 @@ Kurzreferate zum Thema Zufall und Chaos.
 * Sehr weit verbreiteter Algorithmus zur Generierung von Zufallszahlen
 * Algorithmus basierend auf einfachen arithmetischen Operationen zur Generierung von gleichverteilten Zahlen 
 
+### Quelltext
+
+* [linearer_kongruenzgenerator.scd](linearer_kongruenzgenerator.scd)
 
 ## Zufall in der Musik
 
