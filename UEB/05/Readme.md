@@ -1,4 +1,4 @@
-# Was wir zusammen besprichen haben
+# Was wir zusammen besprochen haben
 
 ## Warum Patterns?
 
