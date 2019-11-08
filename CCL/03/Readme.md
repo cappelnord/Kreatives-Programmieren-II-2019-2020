@@ -15,13 +15,16 @@ Crash Course: [Sonic Pi](https://sonic-pi.net/)
 * Auch entwickelt für den Schulunterricht, dadurch einfacher Syntax, schneller Einstieg, gutes Tutorial
 * Einfache Handhabung von Loop-Samples
 
-## Performances mit Sonic Pi
+## Code Beispiele
+* [Zufällige Cluster von Sinus-Tönen](cluster.rb)
+* [Alle meine Entchen](entchen.rb)
+* [Moll-Pentatonik Glöcken + Echo](pentatonic_plings.rb)
+* [Weiteres Beispiel aus Open Codes](open_codes.rb)
 
+## Performances mit Sonic Pi
 * [Sam Aaron live coding an ambient electro set w/ Sonic Pi](https://www.youtube.com/watch?v=G1m0aX9Lpts)
 * [Live coding dub techno in Sonic Pi](https://www.youtube.com/watch?v=a1RxpJkvqpY)
 * [Tommi Toivonen: live-coded music with Sonic Pi](https://www.youtube.com/watch?v=OD-aTeVE5ao)
 
-## Weitere Infos/Literator
-
+## Weiteres
 * [Programming as Performance | Sam Aaron | TEDxManchester](https://www.youtube.com/watch?v=0lTZ8Tuyu5I)
-* ...
