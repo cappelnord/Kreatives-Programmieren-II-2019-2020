@@ -6,10 +6,10 @@
 * 25.10.2019 - **[Show & Tell](02)**
 * 01.11.2019 - *Fällt aus; Allerheiligen*
 * 08.11.2019 - **[Crash Course: Sonic Pi](03)**
-* 15.11.2019 - **[Oscilloscope/Lissajous Music](04)**
+* 15.11.2019 - **[Esoterische Programmiersprachen/Orca](04)**
 * 22.11.2019 - *Fällt aus*
 * 29.11.2019 - *Fällt aus; Girls' Digital Camps*
-* 06.12.2019 - **[Esoterische Programmiersprachen/Orca](05)**
+* 06.12.2019 - **[Oscilloscope/Lissajous Music](05)**
 * 13.12.2019 - ...
 * 20.12.2019 - ...
 * 10.01.2020 - ...
