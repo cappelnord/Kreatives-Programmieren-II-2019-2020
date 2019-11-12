@@ -26,7 +26,7 @@ Ziel ist es Techniken und Arbeitsweisen analoger modularer Synthesizer in SuperC
 ## Feedback
 
 * Was ist ein Feedback/Rückkopplung?
-* Larsen effect([Wiki](https://en.wikipedia.org/wiki/Audio_feedback))
+* Larsen effect ([Wiki](https://en.wikipedia.org/wiki/Audio_feedback))
 * Feedback 'bändigen'; Regelsysteme
 * Rekursion und Feedback
 * Technische Probleme/Einschränkungen für Feedbacks in SuperCollider
@@ -41,9 +41,9 @@ Ziel ist es Techniken und Arbeitsweisen analoger modularer Synthesizer in SuperC
 
 ## Hausaufgabe
 
-Baut mit Hilfe von Bussen, Ndef oder ProxySpace ein Netzwerk aus mehreren Syntheseprozessen die miteinander über Signale (ar, kr oder Trigger) interagieren. Das Netzwerk soll an mindestens einer Stelle ein Feedback enthalten. Das Feedback soll über einen Regelmechanismus verfügen - entweder manuell ([MouseX/Y](http://doc.sccode.org/Classes/MouseX.html), MIDI, ...) oder automatisch (z.B. [Amplitude](http://doc.sccode.org/Classes/Amplitude.html) oder zeitgesteuert via Envelopes, LFOs, etc.). Seid vorsichtig bei den Feedbacks! Am besten zumindest erstmal für den Anfang die Amplitude begrenzen (z.B. durch tanh).
+Baut mit Ndefs ein Netzwerk aus mehreren Syntheseprozessen die miteinander über Signale (ar, kr oder Trigger) interagieren. Das Netzwerk soll an mindestens einer Stelle ein Feedback enthalten. Das Feedback soll über einen Regelmechanismus verfügen - entweder manuell ([MouseX/Y](http://doc.sccode.org/Classes/MouseX.html), MIDI, NdefMixer, GUI ...) oder automatisch (z.B. [Amplitude](http://doc.sccode.org/Classes/Amplitude.html) oder zeitgesteuert via Envelopes, LFOs, etc.). Seid vorsichtig bei den Feedbacks! Am besten zumindest erstmal für den Anfang die Amplitude begrenzen (z.B. durch tanh).
 
-Euer Netzwerk kann einem zeitlichen Ablauf folgen, sich periodisch wiederholen, ein komplexes Eigenleben haben oder als 'Instrument' mit Controllern gespielt werden.
+Euer Netzwerk kann einem zeitlichen Ablauf folgen, sich periodisch wiederholen, ein komplexes Eigenleben haben oder als 'Instrument' mit Controllern (MIDI, NdefMixer, ...) gespielt werden.
 
 Zur Gestaltung des Klangs stehen euch alle Möglichkeiten in SuperCollider zur Verfügung. Benutzt keine Patterns und erzeugt keine neuen Synth-Instanzen. Sequencing und zeitlicher Ablauf soll alles direkt auf Signalebene geregelt werden.
 
