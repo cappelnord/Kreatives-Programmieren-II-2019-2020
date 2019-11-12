@@ -8,6 +8,7 @@ Sammlung an Code-Snippets zu bestimmten Themen auf Anfragen von Studierenden.
 * [ADSR Envelopes beenden mit 'gate'](scsynth_adsr-gate.scd)
 
 ### MIDI
+* [Synthese mit MIDI CC Nachrichten steuern](midi_cc.scd)
 * [MIDI Panic Button (mit Strg. bzw. Cmd.)](midi_panic-button.scd)
 * [Pbind mit MIDI benutzen](midi_patterns.scd)
 

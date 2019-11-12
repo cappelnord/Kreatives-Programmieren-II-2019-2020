@@ -8,6 +8,10 @@
 
 // === Triggers ===
 
+// Trigger-Generatoren
+// Vergleiche
+// Trigger-Parameter
+// Changed
 // PulseDivider, Stepper, PulseCount, ...
 // Select, ...
 // => Kann in der Übung zu 'Demand' noch ausgeweitet werden
