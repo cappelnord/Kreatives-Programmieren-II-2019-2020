@@ -5,11 +5,13 @@
 // NdefMixer (auch: ProxyMixer)
 // Setzen von Ndef Parametern, Mapping von Parametern
 // Ndef Audio Routing
+// Ndefs werden in der Übung noch ausgeweitet
 
 // === Triggers ===
 
+// Trigger und Gate
 // Trigger-Generatoren
-// Vergleiche
+// Vergleichsoperatoren
 // Trigger-Parameter
 // Changed
 // PulseDivider, Stepper, PulseCount, ...

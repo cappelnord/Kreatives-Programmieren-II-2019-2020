@@ -8,9 +8,9 @@ Ziel ist es Techniken und Arbeitsweisen analoger modularer Synthesizer in SuperC
 
 ## Modular
 
-* Was bedeutet Modular?
+* Was verstehen wir unter Modular?
 * UGens als Module im UGen-Graph
-* LFOs
+* LFOs (Low Frequency Oscillators)
 * Funktionen als Untermodule in der Klangsynthese
 * SynthDefs als Module im Node Tree
 * [Busse](http://doc.sccode.org/Classes/Bus.html)
@@ -26,9 +26,8 @@ Ziel ist es Techniken und Arbeitsweisen analoger modularer Synthesizer in SuperC
 ## Feedback
 
 * Was ist ein Feedback/Rückkopplung?
-* Larsen effect ([Wiki](https://en.wikipedia.org/wiki/Audio_feedback))
+* Larsen-Effekt ([Wiki](https://en.wikipedia.org/wiki/Audio_feedback))
 * Feedback 'bändigen'; Regelsysteme
-* Rekursion und Feedback
 * Technische Probleme/Einschränkungen für Feedbacks in SuperCollider
 * Feedback Quark ([FbC](http://quark.sccode.org/Feedback/Fb.html) und [FbNode](http://quark.sccode.org/Feedback/FbNode.html))
 * Single-Sample-Feedback ([Example 1](https://github.com/supercollider/supercollider/blob/develop/examples/demonstrations/single_sample_feedback.scd), [Example 2](https://github.com/supercollider/supercollider/blob/develop/examples/demonstrations/single_sample_feedback_02.scd))
@@ -55,3 +54,5 @@ Zur Gestaltung des Klangs stehen euch alle Möglichkeiten in SuperCollider zur V
 * ...
 
 ## Weiteres
+
+* Wer MIDI Controller in seiner Aufgabe verwenden möchte sollte sich den [Beispiel Code](../../FAQ/midi_cc.scd) in der FAQ anschauen.
