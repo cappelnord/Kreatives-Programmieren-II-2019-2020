@@ -1,3 +1,3 @@
 # 15.11.2019; Creative Coding Lab
 
-Oscilloscope/Lissajous Music.
+[Esoterische Programmiersprachen](https://esolangs.org/wiki/Main_Page) und [Orca](https://github.com/hundredrabbits/Orca)
