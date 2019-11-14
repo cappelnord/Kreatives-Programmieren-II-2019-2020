@@ -1,10 +1,24 @@
+// Der scsynth zur Verfügung stehende Arbeitsspeicher
+// muss wegen den Delays erhöht werden ...
+s.options.memSize = 32*1024;
+
+// ... Anzahl der Buffer um UGens miteinander zu verbinden auch!
+s.options.numWireBufs = 256;
+
+// Siehe Hilfe: ServerOptions
+
+// Danach den Server rebooten.
+s.reboot;
+
+// Benötigt Feedback Quark und SC3plugins
+
 (
 {
 	var duration = 120;
 	var feedbackAmp = MouseX.kr(0.25, 3, 1).poll;
 	var delayTime = MouseY.kr(64/44100, 0.05, 1, 0.5);
 	var env = EnvGen.kr(Env.sine(duration), doneAction: 2);
-	var fFreqs = XLine.ar(50, 1000, duration) * (1..8).scramble * {LFNoise2.kr(0.2.rand).range(0.98, 1.02)}!4;
+	var fFreqs = XLine.ar(50, 1000, duration) * (1..8).scramble * {LFNoise2.kr(0.2.rand).range(0.98, 1.02)}!8;
 
 	var sig = PinkNoise.ar(0.001);
 
