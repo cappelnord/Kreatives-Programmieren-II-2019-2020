@@ -47,5 +47,5 @@
 
 ## Recourcen
 
-[Nick Collins: Analogue Modelling](https://composerprogrammer.com/teaching/supercollider/sctutorial/11.2%2520Analogue%2520Modelling.html) (siehe Demand UGens weiter unten)
+[Nick Collins: Analogue Modelling](https://composerprogrammer.com/teaching/supercollider/sctutorial/11.2%20Analogue%20Modelling.html) (siehe Demand UGens weiter unten)
 
