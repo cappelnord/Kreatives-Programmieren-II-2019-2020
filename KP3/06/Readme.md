@@ -12,7 +12,7 @@ Ziel ist es Techniken und Arbeitsweisen analoger modularer Synthesizer in SuperC
 * UGens als Module im UGen-Graph
 * LFOs (Low Frequency Oscillators)
 * Funktionen als Untermodule in der Klangsynthese
-* SynthDefs als Module im Node Tree
+* Synth als Module im Node Tree
 * [Busse](http://doc.sccode.org/Classes/Bus.html)
 * [Ndef](http://doc.sccode.org/Classes/Ndef.html)
 
@@ -22,6 +22,7 @@ Ziel ist es Techniken und Arbeitsweisen analoger modularer Synthesizer in SuperC
 * Was kann ich mit Trigger anfangen?
 * Wie lassen sich Trigger erzeugen?
 * Ausblick Übung, Demand UGens: Server-seitige Patterns
+* [Example: microhelix_study.scd](https://github.com/supercollider/supercollider/blob/f65a1ef7bfb100f4ccb7dcab3a6dff6826be4344/examples/pieces/microhelix_study.scd)
 
 ## Feedback
 
