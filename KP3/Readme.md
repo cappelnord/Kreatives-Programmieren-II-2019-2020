@@ -8,6 +8,13 @@
 * 30.10.2019 - [**Zufall II**](04) (Kurzreferate)<br />*Zufall in der Musik<br/>Pseudozufallszahlengenerator/Linearer Kongruenzgenerator*<br />*Chaos-UGens in SuperCollider*
 * 05.11.2019 - [**Zufall III**](05) (Besprechung der Übungsprojekte)
 * 13.11.2019 - [**Modular/Trigger/Feedback I**](06)
-* 20.11.2019 - **Modular/Trigger/Feedback II** (Kurzreferate)<br />*Modulare Synthesizer: Geschichte und Entwicklung<br />Modulare Synthesizer: Praxis<br />Feedback in der Musik*
+* 20.11.2019 - [**Modular/Trigger/Feedback II**](07) (Kurzreferate)<br />Feedback in der Musik<br />*Modular-Synthesizer: Geschichte und Entwicklung<br />Modular-Synthesizer: Praxis*
 * 27.11.2019 - **Modular/Trigger/Feedback III** (Besprechung der Übungsprojekte)
-* ...
+* 04.12.2019 - **Interferenzen I**
+* 11.12.2019 - **Interferenzen II** (Kurzreferate)
+* 18.12.2019 - **Interferenzen III** (Besprechung der Übungsprojekte)
+
+## Ausblick 2020
+* L-Systeme
+* Zelluläre Automaten
+* Sonifikation von Prozessen unserer Umwelt
