@@ -18,3 +18,7 @@
 * L-Systeme
 * Zelluläre Automaten
 * Sonifikation von Prozessen unserer Umwelt
+* Live-Coding
+* Netzwerkmusik
+* Generative Grafik
+* ...
