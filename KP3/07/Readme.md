@@ -43,7 +43,7 @@ https://vimeo.com/62904221
 Roberto Pugliese – “Equilibrium Variant” (2011)
 https://vimeo.com/25131483
 
-Litteratur:
+Literatur:
 
 
 Dario, Sanfilippo; Valle, Andrea: Feedback Systems: An Analytical Framework, Computer Music Journal, Volume 37, Issue 2, The MIT Press, 2013. --> Der Artikel ist in der Hochschule erhältlich
