@@ -20,7 +20,7 @@ Feedback enthält immer ein gewisses nicht-deterministisches Element.
 ### Beispiele in der Musik
 
 * [Hugh Davis, „Quintet“ (1967 – 1968)](https://www.youtube.com/watch?v=MkDuM5_RIyc)
-* [David Tudor, "Neural Synthesis"(1993)] (https://www.youtube.com/watch?v=v5R8r-iTp6M&t=131s9)
+* [David Tudor, "Neural Synthesis"(1993)](https://www.youtube.com/watch?v=v5R8r-iTp6M)
 * [Steve Reich, "Pendulum Music" (1968)](https://www.youtube.com/watch?v=fU6qDeJPT-w)
 * [Max Neuhaus (John Cage), “Fontana Mix-Feed” (1968)](https://www.youtube.com/watch?v=81mEr9SdM2E)
 * [Nicolas Collins, “Pea Soup” (1974)](https://www.youtube.com/watch?v=W7f5Iha7JyQ)
@@ -36,7 +36,7 @@ Feedback enthält immer ein gewisses nicht-deterministisches Element.
 
 * Di Scipio, Agostino: ‘Sound is the interface’: from interactive to ecosystemic signal processing. URL: https://www.ak.tu-berlin.de/fileadmin/a0135/Unterrichtsmaterial/Di_Scipio/Sound_is_the_interface.PDF
 
-* Resonance Magazine: Feedback, Resonance Magazine, Volume 9, Number 2, London, 2002. Url: https://knut.klingt.org/docs/resonance_9_2_feedback.pdf?fbclid=IwAR2x_XU107tu6XR7ubtR7ppFGDkwi8dl-A6aEcm9wdQek4sCL7m2o-V3Vec
+* Resonance Magazine: Feedback, Resonance Magazine, Volume 9, Number 2, London, 2002. Url: https://knut.klingt.org/docs/resonance_9_2_feedback.pdf
 
 * Album Notes: David Tudor, "Neural Synthesis". Url:
 http://www.lovely.com/albumnotes/notes1602.html
