@@ -9,3 +9,4 @@ Nummerierung der Ordner jeweils wie bei [Kreatives Programmieren 3](../KP3).
 * 06.11.2019 - **[Patterns II](05)**
 * 13.11.2019 - **[Ndefs | Demand-UGens](06)**
 * 20.11.2019 - **[Ndefs und Feedback](07)**
+* 27.11.2019 - **[Ndefs: Parameter, Gate, Bus](08)**
