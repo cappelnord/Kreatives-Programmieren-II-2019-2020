@@ -52,7 +52,10 @@ Zur Gestaltung des Klangs stehen euch alle Möglichkeiten in SuperCollider zur V
 ## Literatur
 
 * [Scott Eric Peterson - Fun with Feedback (and SuperCollider)](https://scacinto.wordpress.com/2010/12/02/fun-with-feedback-and-supercollider/)
-* ...
+
+## Weitere Feedback Beispiele
+* [Marina Abramovic on performing "Rhythm 0" (1974)](https://www.youtube.com/watch?v=xTBkbseXfOQ)
+* [Jaco Pastorius solo live in Germany](https://www.youtube.com/watch?v=okROFGn1cdA) - Feedback to Jimi Hendrix 
 
 ## Weiteres
 
