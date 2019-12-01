@@ -42,6 +42,55 @@ Feedback enthält immer ein gewisses nicht-deterministisches Element.
 http://www.lovely.com/albumnotes/notes1602.html
 
 ## Modular-Synthesizer
+Geschichtlicher Abriss:
+• 1964, Donald Buchla entwickelt das “Model 100 Modular” (erstes modulares analoges System),
+   statt einer “handelsüblichen” Tastatur hat es ein Touch-Keyboard verbaut.
+ 
+• 1967, der “Moog Modular Synth” von Robert Moog kommt auf den Markt und wird zum 
+   Verkaufsschlager, das Buchla System wird verdrängt.
+
+• 1968, Wendy Carlos - Switched on Bach verhilft den Modular Systemen zu weiterer Popularität.
+   Link: https://www.youtube.com/playlist?list=PL30143D8034BA1D60
+
+• 1995, Dieter Döpfer führt den “Eurorack Standart” ein. Module werden nun Massenmarkt tauglich
+   und preislich erschwinglich für viele Musiker. Ziemlich jeder größere Hersteller produziert heute den
+   Eurorack Standart, was eine unglaubliche Vielfalt an Modulen und Möglichkeiten schafft.
+
+Daten & Fakten:
+• Die Module der Modularsysteme werden in “HE” (Höhen Einheiten) gemessen: 1HE = 44,45mm
+
+• Eurorack Module haben eine Höhe von 3HE, sind also nicht kompatibel mit den vorhergehenden 5HE
+   Systemen von (u.a.) Moog und Buchla . Einen weiteren Unterschied stellen die Patch-Buchsen der Module
+   dar,  während beim Eurorack mit 3,5mm Steckern gearbeitet wird, werden beim 5HE System 6,3mm
+   Buchsen verwendet, also auch hier keine Kompatibilität. 
+
+• Die Module “kommunizieren” untereinander mit Hilfe von sog. Steuerspannungen (engl. Control Voltage ->
+   CV) , die CV Signale werden sowohl durch die Patchkabel zwischen Out- und Inputs übertragen als auch 
+   Modulintern, teilweise sogar über Systeminterne Bus-Systeme. Neben den Patchbays lassen sich die CV
+   Signale noch wie bei allen analogen Synthesizern  über die Potis (Potentiometer ) der Module beeinflussen.
+
+Links & Videos:
+
+• Donald Buchla: New Form Festival 2013:
+   https://www.youtube.com/watch?v=oy8ETnNuW6I
+
+• Roger Waters - “Synth Noodlin” :
+   https://www.youtube.com/watch?v=fV3cL3hP2aQ
+
+• Look Mum No Computer - Groundhog Day:
+  https://www.youtube.com/watch?v=5i_Ckyc6g8Y
+
+• Caterina Barbieri - Live Set,  Boiler Room :
+  https://www.youtube.com/watch?v=W25FTIO42VY
+
+• Junkie XL - Studio Time (Part1):
+   https://www.youtube.com/watch?v=cudr9Y9lEMI&t=1366s
+
+• Elektor Magazine,  Formant Synth DIY:
+   http://www.sdiy.org/rfeng/formant.html
+
+
+
 
 ### Geschichte und Entwicklung
 
