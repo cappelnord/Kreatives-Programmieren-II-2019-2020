@@ -43,6 +43,7 @@ http://www.lovely.com/albumnotes/notes1602.html
 
 ## Modular-Synthesizer
 Geschichtlicher Abriss:
+
 • 1964, Donald Buchla entwickelt das “Model 100 Modular” (erstes modulares analoges System),
    statt einer “handelsüblichen” Tastatur hat es ein Touch-Keyboard verbaut.
  
@@ -57,6 +58,7 @@ Geschichtlicher Abriss:
    Eurorack Standart, was eine unglaubliche Vielfalt an Modulen und Möglichkeiten schafft.
 
 Daten & Fakten:
+
 • Die Module der Modularsysteme werden in “HE” (Höhen Einheiten) gemessen: 1HE = 44,45mm
 
 • Eurorack Module haben eine Höhe von 3HE, sind also nicht kompatibel mit den vorhergehenden 5HE
