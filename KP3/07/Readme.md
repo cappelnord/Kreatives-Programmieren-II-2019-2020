@@ -61,7 +61,7 @@ http://www.lovely.com/albumnotes/notes1602.html
 
 * Die Module “kommunizieren” untereinander mit Hilfe von sog. Steuerspannungen (engl. Control Voltage -> CV), die CV Signale werden sowohl durch die Patchkabel zwischen Out- und Inputs übertragen als auch modulintern, teilweise sogar über systeminterne Bus-Systeme. Neben den Patchbays lassen sich die CV Signale noch wie bei allen analogen Synthesizern über die Potis (Potentiometer) der Module beeinflussen.
 
-Links & Videos:
+### Links & Videos
 
 * [Donald Buchla: New Form Festival 2013](https://www.youtube.com/watch?v=oy8ETnNuW6I)
 * [Roger Waters - “Synth Noodlin”](https://www.youtube.com/watch?v=fV3cL3hP2aQ)
