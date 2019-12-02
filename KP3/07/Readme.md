@@ -71,4 +71,7 @@ http://www.lovely.com/albumnotes/notes1602.html
 * [Elektor Magazine,  Formant Synth DIY](http://www.sdiy.org/rfeng/formant.html)
 
 
-### Praxis
+### Praxis 
+
+* [VCV Rack - Open-source virtual modular synthesizer] (https://vcvrack.com/)
+* [Tutorial] (https://www.youtube.com/watch?v=7NunMnOxjtY&t=677s)
