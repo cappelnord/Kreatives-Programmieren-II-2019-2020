@@ -73,5 +73,6 @@ http://www.lovely.com/albumnotes/notes1602.html
 
 ### Praxis 
 
-* [VCV Rack - Open-source virtual modular synthesizer] (https://vcvrack.com/)
-* [Tutorial] (https://www.youtube.com/watch?v=7NunMnOxjtY&t=677s)
+* [Präsentationsfolien](Modulare%20Synthesizer%20Praxis.pdf)
+* [VCV Rack - Open-source virtual modular synthesizer](https://vcvrack.com/)
+* [Tutorial](https://www.youtube.com/watch?v=7NunMnOxjtY&t=677s)
