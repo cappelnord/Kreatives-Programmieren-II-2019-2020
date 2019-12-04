@@ -20,6 +20,27 @@ Ndef(\maga, {
 Ndef(\maga).play
 
 
+
+
+( // Buffer 'Phasing'
+Ndef(\maga, {
+	Mix.ar(PlayBuf.ar(1, b, [1, 1.001], loop: 1)).dup * 0.5;
+})
+)
+
+Ndef(\maga).play
+
+
+( // Extreme Buffer 'Phasing'
+Ndef(\maga, {
+	var rates = 1 + (0.001,0.002..0.05);
+	Mix.ar(PlayBuf.ar(1, b, rates, loop: 1)).dup / rates.size;
+})
+)
+
+Ndef(\maga).play
+
+
 // Schwebung
 {(SinOsc.ar(440) + SinOsc.ar(441) * 0.5).dup}.play
 
