@@ -10,7 +10,7 @@
 * 13.11.2019 - [**Modular/Trigger/Feedback I**](06)
 * 20.11.2019 - [**Modular/Trigger/Feedback II**](07) (Kurzreferate)<br />*Feedback in der Musik*<br />*Modular-Synthesizer: Geschichte und Entwicklung*<br />*Modular-Synthesizer: Praxis*
 * 27.11.2019 - [**Modular/Trigger/Feedback III**](08) (Besprechung der Übungsprojekte)
-* 04.12.2019 - **Interferenzen I**
+* 04.12.2019 - [**Interferenzen I**](09)
 * 11.12.2019 - **Interferenzen II** (Kurzreferate)<br />*Interferenz in der Musik*<br />*Interferenz in der Physik*<br />*Moiré-Effekt (in der bildenden Kunst)*
 * 18.12.2019 - **Interferenzen III** (Besprechung der Übungsprojekte)
 
