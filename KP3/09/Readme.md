@@ -26,6 +26,9 @@ Ich will beide Begriffe möglichst weit auslegen und auch Themen/Techniken mit e
 * Trigger und Latch
 * ...
 
+## Weitere Beispiele/Literatur
+
+* ...
 
 ## Hausaufgabe
 
