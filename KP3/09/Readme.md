@@ -26,6 +26,14 @@ Ich will beide Begriffe möglichst weit auslegen und auch Themen/Techniken mit e
 * Trigger und Latch
 * ...
 
+## Code
+
+* [Impulse Super-Oszillator](impulse_interferences.scd)
+* [Beispiele](interference_aliasing_beispiele.scd)
+
+## Weitere Beispiele/Literatur
+
+* ...
 
 ## Hausaufgabe
 
