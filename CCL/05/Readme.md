@@ -4,9 +4,17 @@ Oscilloscope/Lissajous Music.
 
 ## Michele Samarotto - XY
 
+* ...
+
 ## SuperCollider
 
+* [lissajous.scd - Einfache sich bewegende Lissajous Figuren](lissajous.scd)
+* [Lissajous auf Wikipedia mit Figuren und Frequenzverhältnissen](https://de.wikipedia.org/wiki/Lissajous-Figur)
+
 ## Processing Visualizer
+
+* Benötigt [Processing](https://processing.org/) und die Minim Library.
+* Minim installieren in Processing: *Sketch > Import Library > Add Library* 
 
 ## Videos/Beispiele
 
