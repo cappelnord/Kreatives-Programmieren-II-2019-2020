@@ -6,19 +6,32 @@ Minim minim;
 AudioInput in;
 
 void setup() {
-  size(800, 800);
+  // Auflösung/Fenstergröße
+  size(800, 800, P3D);
   minim = new Minim(this);
   
   in = minim.getLineIn(Minim.STEREO, 512);
   
   smooth();
+  background(0);
   
+  frameRate(60);
 }
 
 void draw() {
-  background(0);
+  blendMode(BLEND);
+  noStroke();
+  // 80 = Alpha; steuert wie viel vom alten
+  // Bild beibehalten werden soll
+  fill(0, 0, 0, 80); 
+  rect(0, 0, width, height);
   
-  stroke(0, 255, 20);
+  blendMode(ADD);
+  
+  noFill();
+  // RGB Farbe des Oszilloskops
+  stroke(5, 128, 30);
+  // Wie dick die Linie ist
   strokeWeight(4);
   
   for(int i = 1; i < in.bufferSize(); i++) {
