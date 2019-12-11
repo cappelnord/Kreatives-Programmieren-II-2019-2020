@@ -2,6 +2,10 @@
 
 ## Interferenzen in der Physik
 
+### Links zum Sonnenuntergang
+* [Lichtbrechung in der Atmosphaere](https://www.leifiphysik.de/optik/lichtbrechung/ausblick/lichtbrechung-der-atmosphaere)
+* [Himmelblau und Abendrot](https://www.leifiphysik.de/optik/farben/ausblick/himmelsblau-und-abendrot)
+
 ## Interferenzen in der Musik
 
 ### Moiré Effekt (in der bildenen Kunst)
