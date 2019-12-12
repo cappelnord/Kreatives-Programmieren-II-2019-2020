@@ -10,3 +10,5 @@ Nummerierung der Ordner jeweils wie bei [Kreatives Programmieren 3](../KP3).
 * 13.11.2019 - **[Ndefs | Demand-UGens](06)**
 * 20.11.2019 - **[Ndefs und Feedback](07)**
 * 27.11.2019 - **[Ndefs: Parameter, Gate, Bus](08)**
+* 04.12.2019 - **[Beispiel von Patrick und Beispiel mit Polymetrik](09)**
+* 11.12.2019 - **[Patterns & Ndefs, Variablen, Roads Beispiel](10)**
