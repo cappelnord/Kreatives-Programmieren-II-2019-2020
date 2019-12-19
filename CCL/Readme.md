@@ -12,7 +12,7 @@
 * 06.12.2019 - **[Oscilloscope/Lissajous Music](05)**
 * 13.12.2019 - **[Dream & Tell](06)**
 * 20.12.2019 - **[TUIO](07)**
-* 10.01.2020 - **[Museumsbesuch: Writing the History of the Future](08)
+* 10.01.2020 - **[Museumsbesuch: Writing the History of the Future](08)**
 * 17.01.2020 - *Fällt wahrscheinlich aus; Institutsabend*
 * 24.01.2020 - **[CataRT](http://imtr.ircam.fr/imtr/CataRT)**
 * 31.01.2020 - **[Pygame](https://www.pygame.org/)**
