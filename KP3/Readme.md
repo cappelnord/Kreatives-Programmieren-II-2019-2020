@@ -12,7 +12,7 @@
 * 27.11.2019 - [**Modular/Trigger/Feedback III**](08) (Besprechung der Übungsprojekte)
 * 04.12.2019 - [**Interferenzen I**](09)
 * 11.12.2019 - [**Interferenzen II**](10) (Kurzreferate)<br />*Interferenz in der Musik*<br />*Interferenz in der Physik*<br />*Moiré-Effekt (in der bildenden Kunst)*
-* 18.12.2019 - **Interferenzen III** (Besprechung der Übungsprojekte)
+* 18.12.2019 - [**Interferenzen III**](11) (Besprechung der Übungsprojekte)
 
 ## Ausblick 2020
 * L-Systeme
