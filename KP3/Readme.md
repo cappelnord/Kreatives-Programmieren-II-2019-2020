@@ -13,11 +13,19 @@
 * 04.12.2019 - [**Interferenzen I**](09)
 * 11.12.2019 - [**Interferenzen II**](10) (Kurzreferate)<br />*Interferenz in der Musik*<br />*Interferenz in der Physik*<br />*Moiré-Effekt (in der bildenden Kunst)*
 * 18.12.2019 - [**Interferenzen III**](11) (Besprechung der Übungsprojekte)
+* 08.01.2020 - [**Umwelt &amp; Simulation I**](12)
+* 15.01.2020 - **Umwelt &amp; Simulation II** (Kurzreferate)<br />
+*Chomsky Grammatiken*<br />
+*L-Systeme (in der Biologie)*
+*L-Systeme in der Musik*
+* 22.01.2020 - **Umwelt &amp; Simulation III** (Kurzreferate)<br />
+*Zellulare Automaten*<br />
+*Schwarmverhalten &amp; Simulation*<br />
+*Sonifikation*<br />
+* 29.01.2020 - **Umwelt &amp; Simulation IV** (Besprechung der Übungsprojekte)
+* 05.02.2020 - Semesterabschluss
 
 ## Ausblick 2020
-* L-Systeme
-* Zelluläre Automaten
-* Sonifikation von Prozessen unserer Umwelt
 * Live-Coding
 * Netzwerkmusik
 * Generative Grafik
