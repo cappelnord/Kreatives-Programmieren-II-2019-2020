@@ -21,7 +21,7 @@
 * 22.01.2020 - **Umwelt &amp; Simulation III** (Kurzreferate)<br />
 *Zellulare Automaten*<br />
 *Schwarmverhalten &amp; Simulation*<br />
-*Sonifikation*<br />
+*Fraktale*<br />
 * 29.01.2020 - **Umwelt &amp; Simulation IV** (Besprechung der Übungsprojekte)
 * 05.02.2020 - Semesterabschluss
 

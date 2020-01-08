@@ -14,7 +14,11 @@
 
 ## Wieso ist es als Künstler interessant Prozesse unserer Umwelt als Grundlage für unsere Arbeit zu nehmen?
 
-## L-Systeme
+## Hausaufgabe bis zum 05.02.2020
+
+Lasst euch von Prozessen aus eurer Umwelt inspirieren. Gestaltet einen Klang oder ein Stück Musik entweder durch a) Sonifikation von Daten die ihr einem Prozess entnehmt (entweder über Zeit oder zu einem bestimmten Zeitpunkt) b) eine Simulation eines Prozesses (hier dürft ihr auch gerne Automaten, L-Systeme, etc. einsetzen).
+
+Abgabe wie immer als Code via GitHub und Audiobeispiel (GitHub oder E-Mail).
 
 ## Creative Coding Lab am 10.01
 
