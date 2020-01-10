@@ -107,3 +107,7 @@ fork{
 	}
 }
 )
+
+// nachtrag:
+// leere zeilen kann man auch beim datei-lesen direkt weglassen:
+x = CSVFileReader.read(PathName(thisProcess.nowExecutingPath).pathOnly +/+ "pulsar_stars.csv", skipEmptyLines: true, startRow: 1); // siehe argument skipEmptyLines
