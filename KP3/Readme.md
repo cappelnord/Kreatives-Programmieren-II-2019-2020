@@ -23,7 +23,7 @@
 *Schwarmverhalten &amp; Simulation*<br />
 *Fraktale*<br />
 * 29.01.2020 - [**Umwelt &amp; Simulation IV**](15) (Besprechung der Übungsprojekte)
-* 05.02.2020 - Semesterabschluss
+* 05.02.2020 - [**Semesterabschluss**](16)
 
 ## Ausblick 2020
 * Live-Coding
