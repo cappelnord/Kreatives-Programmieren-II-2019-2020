@@ -16,4 +16,4 @@
 * 17.01.2020 - *Fällt wahrscheinlich aus; Institutsabend*
 * 24.01.2020 - **[CataRT](http://imtr.ircam.fr/imtr/CataRT)**
 * 31.01.2020 - **[Pygame](https://www.pygame.org/)**
-* 07.02.2020 - **Semesterabschluss**
+* 07.02.2020 - **[Semesterabschluss](09)**
