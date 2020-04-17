@@ -171,3 +171,39 @@ MIDIdef.cc(\freq, {|val, num, chan, src|
 	b.set(val.linexp(0, 127, 50, 800));
 }, 5);
 )
+
+
+// === 3) MIDIdef und GUI ===
+
+// Wenn man kein Feedback an die MIDI-Controller schicken mag ist valueAction ein guter Weg
+// um gleichzeitig GUI-Elemente zu steuern (auch als visuelles Feedback) und Synths zu steuern
+// (das wollen wir am Ende ja)
+
+(
+var window = Window.new("Test", 200@200);
+var knob = Knob(window, Rect(25, 25, 150, 150));
+
+// alternativ EZKnob welcher die ControlSpec
+// und ein Label bereits beinhaltet.
+var cs = ControlSpec(200, 1600, \exponential);
+
+var sound = {|freq=200| SinOsc.ar(freq).dup * 0.1}.play;
+
+knob.action_({|x|
+	sound.set(\freq, cs.map(x.value));
+});
+
+MIDIdef.cc(\freq, {|val, num, chan, src|
+	// normalisiert MIDI-Werte
+	knob.valueAction = val.linlin(0.0, 127.0, 0.0, 1.0);
+}, 5); // CC 5
+
+window.front;
+
+// nur um unten damit zu spielen ...
+k = knob;
+c = cs;
+)
+
+k.valueAction = 0.2;
+k.valueAction = c.unmap(440)
