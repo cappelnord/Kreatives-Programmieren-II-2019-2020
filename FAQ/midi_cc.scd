@@ -195,7 +195,10 @@ knob.action_({|x|
 
 MIDIdef.cc(\freq, {|val, num, chan, src|
 	// normalisiert MIDI-Werte
-	knob.valueAction = val.linlin(0.0, 127.0, 0.0, 1.0);
+	// Aufruf muss via AppClock erfolgen da der Haupt-Thread
+	// nicht das GUI verändern darf. {}.defer ist hierfür
+	// ein praktischer Shortcut!
+	{knob.valueAction = val.linlin(0.0, 127.0, 0.0, 1.0);}.defer;
 }, 5); // CC 5
 
 window.front;
