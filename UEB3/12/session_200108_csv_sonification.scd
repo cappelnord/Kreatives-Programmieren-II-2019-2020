@@ -12,7 +12,7 @@
 x = CSVFileReader.read(PathName(thisProcess.nowExecutingPath).pathOnly +/+ "pulsar_stars.csv");
 
 // exkurs: dateien lesen
-a = File.new("/Users/danielhopfner/Desktop/kp3/Kreatives-Programmieren-II-2019-2020/UEB/12/test.txt", "r");
+a = File.new("/Users/danielhopfner/Desktop/kp3/Kreatives-Programmieren-II-2019-2020/UEB3/12/test.txt", "r");
 a.readAllString;
 
 // back to csv:
