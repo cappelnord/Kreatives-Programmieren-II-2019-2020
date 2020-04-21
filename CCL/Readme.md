@@ -1,6 +1,10 @@
 # Creative Coding Lab
 
-## Semesterüberblick 
+## Semesterüberblick
+
+* ...
+
+## Wintersemester 2019/2020
 
 * 18.10.2019 - **[Überblick und Einstieg](01)**
 * 25.10.2019 - **[Show & Tell](02)**
