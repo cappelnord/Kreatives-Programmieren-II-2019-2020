@@ -1,9 +1,5 @@
 # 22.04.2020; Kreatives Programmieren 4
 
-## Semesterrückblick
-
-* ...
-
 ## Semesterüberblick
 
 * Übung zu Kreatives Programmieren 4
@@ -40,11 +36,41 @@
 * [Washington Post: Corona Simulator](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)
 * [John Hopkins COVID-19 Dashboard](https://coronavirus.jhu.edu/map.html) bzw. [RKI COVID-19 Dashboard](https://experience.arcgis.com/experience/478220a4c454480e823b17327b2bf1d4)
 * [PEPP-PT](https://www.pepp-pt.org/)
-* ...
+* Streaming, Unterhaltung von Leuten
+* Online-Jam (eventuell gerade soziale Komponente)
+* Web-basierte Online-Jam (partizipativ)
+* Spiele entwickeln. (eventuell gerade mit sozialer Komponente)
+
+### Misbrauch
+
+* Misbrauch von Unterstützung (Fall NRW)
+* Misinformation
 
 ### Was sind Chancen? Was geht nicht mehr? Was funktioniert trotz Corona gut?
 
+#### Chancen
+
+* Mehr Zeit
+* Artist Residency
+* Netzwerkmusik, Online-Jams
+* Music for Jitsi
+* Glitch-Art (im Bezug auf Netzwerk)
+
+#### Was geht nicht
+
+* HDLA-Konzerte
+* Artist Residency
+* Konzertreisen, Konferenzreisen, ...
+* Virtual Reality
+* Ensembles
+
+#### Was funktioniert noch gut
+
+* DJ-Mixes
+* Live-Coding
 * ...
+
+
 
 ## Nächster Themenblock: Netzwerkmusik
 
