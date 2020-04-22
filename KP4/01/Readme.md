@@ -16,6 +16,13 @@
 * Eines der Übungsprojekte sollte bis zur Aufführungsfähigkeit ausgearbeitet werden
 * Präsentation/Diskussion der Übungsprojekte eventuell in einer anderen Form; z.B. Erstellung eines kurzen Screencasts/Videos.
 
+### Plattformen
+
+* GitHub
+* Slack
+* Videokonferenzen
+* Individualkommunikation
+
 
 ## Die Krise & die 'Neue Normalität'
 
