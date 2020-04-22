@@ -2,6 +2,8 @@
 
 ## Semesterrückblick
 
+* ...
+
 ## Semesterüberblick
 
 * Übung zu Kreatives Programmieren 4
@@ -12,7 +14,6 @@
 * Im Laufe der beiden Semester mindestens 1 Referat
 * Abgabe und Präsentation der Übungsprojekte
 * Eines der Übungsprojekte sollte bis zur Aufführungsfähigkeit ausgearbeitet werden
-
 * Präsentation/Diskussion der Übungsprojekte eventuell in einer anderen Form; z.B. Erstellung eines kurzen Screencasts/Videos.
 
 
