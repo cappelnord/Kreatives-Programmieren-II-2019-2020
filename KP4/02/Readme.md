@@ -33,7 +33,7 @@
 
 * Local Interconnected Musical Networks<br />*Beispiel: Benoît and the Mandelbrots*
 * Musical Composition Support Systems<br />*Beispiel: [Splice](https://splice.com/)*
-* Remote Music Performance Systems<br />*Beispiel: Estuary*
+* Remote Music Performance Systems<br />*Beispiel: [Eldad Tsabery - Dancity](https://www.youtube.com/watch?v=mx8qj3jtpaI) *
 * Shared Sonic Environments<br />*Beispiel: [Interactive Networked Web Audio Experiences](https://www.youtube.com/watch?v=m3AXHyUi3og)*
 
 #### Ziele
@@ -49,9 +49,11 @@
 * [Shelly Knotts - XYZ](https://www.youtube.com/watch?v=4asRAEjEHIY)
 * [Neil Cosgrove - LNXStudio](https://www.youtube.com/watch?v=r_wJxo4xAdM)
 * [SCtweets](https://twitter.com/sc140tweets)
-<!-- * [Patrick Borgeat - Public Sequencer Matrix](http://cappel-nord.de/webaudio/public-sequencer-matrix/) -->
+* [Patrick Borgeat - Public Sequencer Matrix](http://cappel-nord.de/webaudio/public-sequencer-matrix/)
 * [Benoît and the Mandelbrots](https://www.youtube.com/watch?v=g1nCrbuEMuk)
+* [Powerbooks_unplugged](http://sammlung-essl.at/jart/prj3/essl/main.jart?content-id=1465039459955&rel=de&article_id=1395754618935&x=1&event_id=1395754618937&reserve-mode=active)
 * [CECIA](https://zkm.de/de/cecia-open-call-for-composers)
+* [Robert Hamillton - Q3osc](https://www.youtube.com/watch?v=0HgFiI-s804)
 * Viele Beispiele von Netzwerkmusik vor 2003 im Artikel von Álvaro Barbosa ...
 * Viele weitere Beispiele folgen auch noch in der nächsten Sitzung!
 
