@@ -38,10 +38,9 @@
 * Telepräsenz von Performern
 * Community-orienterede geteilte virtuelle Umgebungen
 
-### Auswahl an Beispielen
+### Auswahl an Beispielen unterschiedlichster Natur
 
 * [David Ogborn et al. - Estuary](https://www.youtube.com/watch?v=qZK2WhIF5vA)
-* [Charlie Roberts - Gibber](https://gibber.cc/)
 * [Shelly Knotts - XYZ](https://www.youtube.com/watch?v=4asRAEjEHIY)
 * [Neil Cosgrove - LNXStudio](https://www.youtube.com/watch?v=r_wJxo4xAdM)
 * [SCtweets](https://twitter.com/sc140tweets)
