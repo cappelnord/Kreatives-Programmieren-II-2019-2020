@@ -36,9 +36,11 @@
 
 * Austausch von Dateien
 * Telepräsenz von Performern
-* Community-orienterede geteilte virtuelle Umgebungen
+* Community-oerientierte geteilte virtuelle Umgebungen
 
-### Auswahl an Beispielen unterschiedlichster Natur
+### Auswahl an Beispielen
+
+*Beispiele unterschiedlichster Natur; teilweise auch ausgewählt weil Bezug zu Patrick.*
 
 * [David Ogborn et al. - Estuary](https://www.youtube.com/watch?v=qZK2WhIF5vA)
 * [Shelly Knotts - XYZ](https://www.youtube.com/watch?v=4asRAEjEHIY)
