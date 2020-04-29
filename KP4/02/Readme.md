@@ -4,11 +4,6 @@
 
 *"Network music happens when people make music that explicitly depeonds on the affordances or materiality of computer networking technologies."* (David Ogborn)
 
-### Referatsthemen für 06.05
-
-* The Hub (Band)
-* Net-Art
-* ... anybody?
 
 ### Netzwerke
 
@@ -25,6 +20,7 @@
 * Bandbreite
 * Sicherheit
 * Authorität, Beherrschung, Kontrolle
+* Affordance
 
 ### Klassifikation nach Álvaro Barbosa
 
@@ -33,7 +29,7 @@
 
 * Local Interconnected Musical Networks<br />*Beispiel: Benoît and the Mandelbrots*
 * Musical Composition Support Systems<br />*Beispiel: [Splice](https://splice.com/)*
-* Remote Music Performance Systems<br />*Beispiel: [Eldad Tsabery - Dancity](https://www.youtube.com/watch?v=mx8qj3jtpaI) *
+* Remote Music Performance Systems<br />*Beispiel: [Eldad Tsabery - Dancity](https://www.youtube.com/watch?v=mx8qj3jtpaI)*
 * Shared Sonic Environments<br />*Beispiel: [Interactive Networked Web Audio Experiences](https://www.youtube.com/watch?v=m3AXHyUi3og)*
 
 #### Ziele
@@ -82,6 +78,7 @@ Zur Überbrückung des Internets für OSC-Nachrichten könnt ihr *OSCjunction* n
 ## Empfohlene Lektüre
 
 * [Barbosa, Álvaro. (2003). Displaced Soundscapes: A Survey of Network Systems for Music and Sonic Art Creation. *Leonardo Music Journal 13*, 53-59.](https://www.researchgate.net/publication/249563708_Displaced_Soundscapes_A_Survey_of_Network_Systems_for_Music_and_Sonic_Art_Creation)
+* [Telnet Star Wars](https://lifehacker.com/watch-star-wars-in-text-via-telnet-373571) :-)
 
 ## Weitere Lektüre
 
