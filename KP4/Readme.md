@@ -3,7 +3,7 @@
 ## Semesterüberblick
 
 * 22.04.2020 - **[Überblick](01)**
-* 29.04.2029 - Netzwerkmusik I
+* 29.04.2029 - **[Netzwerkmusik I](02)**
 * 06.05.2020 - Netzwerkmusik II (Referate)
 * 13.05.2020 - Netzwerkmusik III
 * 20.05.2020
