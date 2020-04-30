@@ -68,7 +68,7 @@ Findet euch in Gruppen von 2-4 Personen zusammen. Ihr seid nun eine Band! Entwic
 
 Den Sound könnt ihr einem Publikum entweder per OSC-Nachrichten 'streamen' (hierbei müsst ihr dem Publikum SuperCollider Code zur Verfügung stellen) oder per Audio-Stream senden (hierfür werde ich einen Icecast Server zur Verfügung stellen).
 
-Zur Überbrückung des Internets für OSC-Nachrichten könnt ihr *OSCjunction* nehmen. Hierzu mehr im Slack, #osc-junction. Ihr dürft aber auch andere Ansätze verfolgen!
+Zur Überbrückung des Internets für OSC-Nachrichten könnt ihr *OSCjunction* nehmen. Hierzu mehr im Slack, #osc-junction. Ihr dürft aber auch andere Ansätze verfolgen! Eine Alternative wäre z.B. [OSCgroups](http://www.rossbencina.com/code/oscgroups).
 
 * Präsentation und Diskussion: 13.05
 * Abgabe: 20.05
