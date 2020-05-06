@@ -9,6 +9,7 @@ Netzwerkmusik (Referate)
 ## Net Art
 
 [MTAA: Simple Net Art Diagram (1997)](https://anthology.rhizome.org/simple-net-art-diagram)
+[Vuk Ćosić: net.art per se (1996)](https://sites.rhizome.org/anthology/net-art-per-se.html)
 
 ### Begriffe
 
@@ -30,6 +31,7 @@ Netzwerkmusik (Referate)
 
 * [John F. Simon: Every Icon (1997)](http://www.numeral.com/appletsoftware/eicon.html)
 * Ungeplant: [Alex Tew: Million Dollar Homepage (2005)](http://www.milliondollarhomepage.com/)
-* Browser als Interface, z.B. [Rasa Smite & Raitis Smits: Talk to me](https://talktome.rixc.lv/)
+* Browser als Interface, z.B. [Rasa Smite & Raitis Smits: Talk to me (2011)](https://talktome.rixc.lv/)
+* [Boredom Research: Real Snail Mail (2008)](https://www.realsnailmail.net/)
 * [Akademie Schloss Solitude & ZKM: Web Residencies](https://zkm.de/de/projekt/web-residencies)
 * ...
