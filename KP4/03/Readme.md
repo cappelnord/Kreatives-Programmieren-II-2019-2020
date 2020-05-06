@@ -8,6 +8,8 @@ Netzwerkmusik (Referate)
 
 ## Net Art
 
+[MTAA: Simple Net Art Diagram (1997)](https://anthology.rhizome.org/simple-net-art-diagram)
+
 ### Begriffe
 
 * Netzkunst
@@ -16,14 +18,11 @@ Netzwerkmusik (Referate)
 * net.art
 * Telematic Art
 
-* [MTAA: Simple Net Art Diagram (1997)](https://anthology.rhizome.org/simple-net-art-diagram)
-* [Vuk Ćosić: net.art per se (1996)](https://sites.rhizome.org/anthology/net-art-per-se.html)
-
-
 ### Beispiele (Fokus: Browser Art)
 
 * [Joan Heemskerk, Dirk Paesmans: wwwww.jodi.org (1993)](https://wwwww.jodi.org/)
 * [Olia Lialina: My Boyfriend came back from the War (1996)](http://www.teleportacia.org/war/wara.htm)
+* [Vuk Ćosić: net.art per se (1996)](https://sites.rhizome.org/anthology/net-art-per-se.html)
 * [Eva & Franco Mattes: Life Sharing (2000-2003)](https://anthology.rhizome.org/life-sharing)
 * [Abe Linkoln & Jimpunk: Screenfull (2004-2005)](https://anthology.rhizome.org/screenfull)
 * Großartige Sammlung: [Rhizome Net Art Anthology](https://anthology.rhizome.org/)
