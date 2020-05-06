@@ -8,9 +8,6 @@ Netzwerkmusik (Referate)
 
 ## Net Art
 
-[MTAA: Simple Net Art Diagram (1997)](https://anthology.rhizome.org/simple-net-art-diagram)
-[Vuk Ćosić: net.art per se (1996)](https://sites.rhizome.org/anthology/net-art-per-se.html)
-
 ### Begriffe
 
 * Netzkunst
@@ -18,6 +15,10 @@ Netzwerkmusik (Referate)
 * Net Art
 * net.art
 * Telematic Art
+
+* [MTAA: Simple Net Art Diagram (1997)](https://anthology.rhizome.org/simple-net-art-diagram)
+* [Vuk Ćosić: net.art per se (1996)](https://sites.rhizome.org/anthology/net-art-per-se.html)
+
 
 ### Beispiele (Fokus: Browser Art)
 
