@@ -2,7 +2,19 @@
 
 Netzwerkmusik (Referate)
 
-## Beispiele: Network Music Framework
+## Beispiele: Network Music (Framework)
+
+* John Cage, Imaginary Landscape no.4 (1951) (Vergleich zwei Aufführungen: [Video 1](https://www.youtube.com/watch?v=A0BNsBlzQII), [Video 2](https://www.youtube.com/watch?v=9KWjnAHUzAU))
+  Buch: Silence: Lectures and Writings, Literature / Music, John Cage, Wesleyan University Press, 1961
+* Tod Machover, Brain Opera (1996)([Eine Vorstellung](https://www.youtube.com/watch?v=gpWU5a07g7s), [Ein Bericht](https://vimeo.com/7900562))
+* Roger Mills, [Ethernet Orchestra](https://ethernetorchestra.net/)(2000s-) (Vergleich zwei Stück/Improvisation: [Distant Presences](https://www.youtube.com/watch?v=iKL3kzPaSXM),[Intercultural Tele-improvisation Study III](https://vimeo.com/128582160))
+* Georg Hajdu, [Quintet.net](https://github.com/HfMT-ZM4/Quintet.net)(2000-) & [MaxScore](http://www.computermusicnotation.com/)(2012-)
+* Alexander Schubert, [Wiki-Piano.Net](http://wiki-piano.net/)(2018-)[Info-page](http://wiki-piano.net/infos#notes)
+---
+Literature:
+Roger Mills, 2019, Tele-Improvisation: Intercultural Interaction in the Online Global Music Jam Session (Chap. 2: Telematics, Art and the Evolution of Networked Music Performance)
+
+Georg Hajdu, 2017, Embodiment and disembodiment in networked music performance
 
 ## The Hub
 
