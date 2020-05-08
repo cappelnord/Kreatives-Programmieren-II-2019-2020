@@ -21,7 +21,7 @@
 * 24.01.2020 - **[CataRT](http://imtr.ircam.fr/imtr/CataRT)**
 * 31.01.2020 - **[Pygame](https://www.pygame.org/)**
 * 07.02.2020 - **[Semesterabschluss](09)**
-* 08.05.2020 - **[Digiatle Präsentationsformate]**(10)**
+* 08.05.2020 - **[Digiatle Präsentationsformate](10)**
 
 
 ## Vorausplanung
