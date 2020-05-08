@@ -16,7 +16,7 @@ Ndef(\sine).play;
 Ndef(\sine).set(\freq, 70)
 
 (
-Pdef(\test, 
+Pdef(\test,
 	Pbind(
 		\amp, 0, // einfach den default synth muten
 		\jfjfjfjfjfjjf, Pfunc({Ndef(\sine).set(\freq, rrand(50, 100))})
@@ -88,12 +88,49 @@ SynthDef(\testsnd, {
 
 NdefMixer(s);
 
+// event-type: set ()
+Ndef(\lal, {|freq=440| SinOsc.ar(freq) * 0.1 ! 2});
+Ndef(\lal).play;
+Ndef(\lal).fadeTime = 2;
+
+Ndef(\lal).asNodeID;
+
+(
+Pdef(\lal,
+	Pbind(
+		\type, \set,
+		\id, Ndef(\lal).asNodeID,
+		\degree, Prand([0, 5, 8, 11], inf),
+		\dur, 0.2
+)).play;
+)
+
+
+
+Ndef(\gate, {Impulse.kr(0)});
+Ndef(\env, {Env.perc(0.01, 0.2).kr(0, Ndef(\gate))});
+
+(
+Pdef(\lal,
+	Pbind(
+		\type, \set,
+		\id, Ndef(\lal).asNodeID,
+		\degree, Prand([0, 5, 8, 11], inf),
+		\send, Pfunc({Ndef(\gate).send}),
+		\dur, 0.2
+)).play;
+)
+
+Ndef(\lal, {|freq=440| SinOsc.ar(freq) * 0.1 * Ndef(\env) ! 2});
+
+Pdef(\lal).stop;
+
 // um einen effekt zu verwenden (ohne kopfzerbrechen mit bussen),
 // routen wir das audio vom synthdef in ein platzhalter-ndef:
 Ndef.ar(\testsndout);
 
 (
-Pdef(\test, 
+Pdef(\test,
 	Pbind(
 		\instrument, \testsnd,
 		\out, Ndef(\testsndout).bus
@@ -163,7 +200,7 @@ Ndef(\freq, {SinOsc.kr(0.5).range(300, 500)}); // kr ndefs machen lineare interp
 // we can speak of the rhythm of a given dynamic, space,
 // ornamentation, timbre, or pitch change, which can be a sudden
 // discrete transition or a continuous variation over time.
-// 
+//
 // Roads, Curtis. Composing electronic music: a new aesthetic. Oxford
 // University Press, USA, 2015.
 
@@ -182,7 +219,7 @@ SynthDef(\sine, {
 )
 
 (
-Pdef(\roads, 
+Pdef(\roads,
 	Pbind(
 		\instrument, \sine,
 		\amp, Pseq([0.3, 0.9], inf),
