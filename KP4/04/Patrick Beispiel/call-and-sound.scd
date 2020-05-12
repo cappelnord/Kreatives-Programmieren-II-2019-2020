@@ -63,7 +63,7 @@ var net = NetAddr("127.0.0.1", 57150);
 var minRTT = 0.04;
 var maxRTT = 0.5; // everything that takes longer can be discarded
 var numDelays = 16;
-var delayDenominator = (2.0 / numDelays);
+var delayDenominator = (4.0 / numDelays);
 var baseDelay = 4.0 * delayDenominator;
 
 var callID = 0;

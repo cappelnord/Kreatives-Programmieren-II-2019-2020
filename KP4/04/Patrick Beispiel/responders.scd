@@ -1,5 +1,13 @@
 NetAddr.langPort;
 
+/*
+OSCjunction Setup:
+- Node 2 auswählen
+- Eigenen langPort herausfinden
+- 'Start Receiving' auf 'RTT-Studie-Broadcast' (Port wie bei NetAddr.langPort)
+- 'Start Sending' auf 'RTT-Studie-Rückkanal' (Port: 57140)
+*/
+
 (
 var net = NetAddr("127.0.0.1", 57140);
 var id = 500000000.rand;
