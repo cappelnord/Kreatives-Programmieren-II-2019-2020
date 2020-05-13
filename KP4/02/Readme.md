@@ -36,7 +36,7 @@
 
 * Austausch von Dateien
 * Telepräsenz von Performern
-* Community-oerientierte geteilte virtuelle Umgebungen
+* Community-orientierte geteilte virtuelle Umgebungen
 
 ### Auswahl an Beispielen
 
@@ -83,4 +83,4 @@ Zur Überbrückung des Internets für OSC-Nachrichten könnt ihr *OSCjunction* n
 
 ## Weitere Lektüre
 
-* (folgt ...)
+* Siehe [Referat zu Network Music](../03/)
