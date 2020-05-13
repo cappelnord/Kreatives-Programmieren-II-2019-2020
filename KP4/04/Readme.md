@@ -15,7 +15,7 @@ Netzwerkmusik (Vorstellung der Projekte)
 ### [JackTrip](https://ccrma.stanford.edu/software/jacktrip/)
 * Low Latency / Unkomprimiert
 * Stellt hohe Anforderungen an Internetverbindung
-* [https://docs.google.com/document/d/18pbu2xQRv521NKvHuYHjIVXRcLFqcDsqYnfKixyuyGg](https://docs.google.com/document/d/18pbu2xQRv521NKvHuYHjIVXRcLFqcDsqYnfKixyuyGg)
+* [Networked Music performance: A step-by-step guide to real-time musical collaboration over the internet using Jacktrip](https://docs.google.com/document/d/18pbu2xQRv521NKvHuYHjIVXRcLFqcDsqYnfKixyuyGg)
 
 ### [Icecast](https://www.icecast.org/)
 * High Latency / Komprimiert
