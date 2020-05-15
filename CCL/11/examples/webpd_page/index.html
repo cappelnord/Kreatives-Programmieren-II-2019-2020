@@ -1,0 +1,70 @@
+<!doctype HTML>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <script src="assets/p5.min.js"></script>
+    <script src="sketch.js"></script>
+    
+    <script type="text/javascript" src="assets/jquery-2.1.0.min.js"></script>
+    <script type="text/javascript" src="assets/pd-fileutils.js"></script>
+    <script type="text/javascript" src="assets/webpd-latest.js"></script>
+    <script type="text/javascript" src="assets/examples.js"></script>
+
+    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
+    <link href='assets/examples.css' rel='stylesheet' type='text/css'>
+  </head>
+
+  <body>
+    <div id="loading">Loading ...</div>
+    <button id="startButton">Start</button>
+    
+    <div id="controls">
+      <input type="range" min="20" max="1000" value="400" id="freqInput">
+      <input type="submit" value="Set frequency" />
+
+      <br/>
+      
+      <input type="range" min="0" max="100" value="50" id="ampInput">
+      <input type="submit" value="Set amplitude" />
+    </div>
+
+    <div id="variablesTest">      
+      <p id="variablesTestP"></p>
+    </div>
+
+    <script type="text/javascript">
+      
+      webPdExamples.init();
+
+      var freq;
+      var freqSlider = document.getElementById("freqInput");
+      freqSlider.oninput = function() {
+	  freq = this.value;
+	  Pd.send('freq', [parseFloat(freq)]);
+      }
+
+      var amp;
+      var ampSlider = document.getElementById("ampInput");
+      ampSlider.oninput = function() {
+	  amp = this.value;
+	  Pd.send('amp', [parseFloat(amp)]);
+      }
+
+      var patch
+      $.get('pd/main.pd', function(mainStr) {
+          // Loading the patch
+          patch = Pd.loadPatch(mainStr);
+
+          webPdExamples.patchLoaded(mainStr);
+      })
+
+      Pd.receive('banga', function(message) {
+	  document.getElementById('variablesTestP').innerHTML = message[0];
+	  test = message[0];
+      });
+
+    </script>
+
+  </body>
+</html>
