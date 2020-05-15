@@ -29,10 +29,10 @@
 - 15.05.2020 - **Pure Data und libPd**
 - 22.05.2020 - **Glitch Praktiken**
 - 29.05.2020 - **Procedural Audio**
-- 05.06.2020 - ... (Space für studentische Workshops)
-- 12.06.2020 - ... (Space für studentische Workshops)
-- 19.06.2020 - ... (Space für studentische Workshops)
-- 26.06.2020 - ... (Space für studentische Workshops)
-- 03.07.2020 - ... (Space für studentische Workshops)
+- 05.06.2020 - **Jann**
+- 12.06.2020 - **Tim**
+- 19.06.2020 - **Line**
+- 26.06.2020 - **Jia**
+- 03.07.2020 - **Elina**
 - 10.07.2020 - **libPd & Unity**
 - 17.07.2020 - **Abschluss-Sitzung**
