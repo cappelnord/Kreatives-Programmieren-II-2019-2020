@@ -83,10 +83,10 @@ Im Fokus sollen hier Musiksysteme bzw. Musikaufführungen stehen, bei denen die 
 
 ## Tools zur Überbrückung des Internets für OSC
 
-*coming soon*
+* (siehe Slack: #osc-junction)
 
 ## Lektüre für den 29.04
 
-* Ogborn, David. (2018). Network Music and the Algorithmic Ensemble. In Alex McLean; Roger T. Dean (Eds.) *The Oxford Handbook of Algorithmic Music*, Oxford University Press, 325-333.
+* Ogborn, David (2018). Network Music and the Algorithmic Ensemble. In Alex McLean; Roger T. Dean (Eds.) *The Oxford Handbook of Algorithmic Music*, Oxford University Press, 325-333.
 
-* Brecht, Bertolt. (1999). Der Rundfunk als Kommunikationsapparat. In Claus Pias et al. (Eds.) *Kursbuch Medienkultur. Die maßgeblichen Theorien von Brecht bis Baudrillard*, Stuttgart: DVA, 259-263. (Original veröffentlicht 1923)
+* Brecht, Bertolt (1999). Der Rundfunk als Kommunikationsapparat. In Claus Pias et al. (Eds.) *Kursbuch Medienkultur. Die maßgeblichen Theorien von Brecht bis Baudrillard*, Stuttgart: DVA, 259-263. (Original veröffentlicht 1923)

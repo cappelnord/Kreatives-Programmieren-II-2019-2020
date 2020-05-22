@@ -78,7 +78,7 @@ Zur Überbrückung des Internets für OSC-Nachrichten könnt ihr *OSCjunction* n
 
 ## Empfohlene Lektüre
 
-* [Barbosa, Álvaro. (2003). Displaced Soundscapes: A Survey of Network Systems for Music and Sonic Art Creation. *Leonardo Music Journal 13*, 53-59.](https://www.researchgate.net/publication/249563708_Displaced_Soundscapes_A_Survey_of_Network_Systems_for_Music_and_Sonic_Art_Creation)
+* [Barbosa, Álvaro (2003). Displaced Soundscapes: A Survey of Network Systems for Music and Sonic Art Creation. *Leonardo Music Journal 13*, 53-59.](https://www.researchgate.net/publication/249563708_Displaced_Soundscapes_A_Survey_of_Network_Systems_for_Music_and_Sonic_Art_Creation)
 * [Telnet Star Wars](https://lifehacker.com/watch-star-wars-in-text-via-telnet-373571) :-)
 
 ## Weitere Lektüre
