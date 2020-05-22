@@ -22,12 +22,11 @@
 * 31.01.2020 - **[Pygame](https://www.pygame.org/)**
 * 07.02.2020 - **[Semesterabschluss](09)**
 * 08.05.2020 - **[Digiatle Präsentationsformate](10)**
-- 15.05.2020 - **[Pure Data und libPd](11)**
-
+* 15.05.2020 - **[Pure Data und libPd](11)**
+* 22.05.2020 - **[Glitch Praktiken](12)**
 
 ## Vorausplanung
 
-- 22.05.2020 - **Glitch Praktiken**
 - 29.05.2020 - **Procedural Audio**
 - 05.06.2020 - **Jann**
 - 12.06.2020 - **Tim**
