@@ -112,7 +112,7 @@ Your `out` folder should now be full with mp3-files numbered from 0-99. Can you 
 - Autechre
 - Curtis Roads
 - Trevor Wishart
-- Yasunao Tone - "MP3 deviations"
+- Yasunao Tone - "MP3 Deviations"
 - Carsten Nicolai
 
 ### Mark's Recommendations:
