@@ -16,7 +16,7 @@
 
 - to participate from within Windows you can either get [WSL (Windows Subsystem for Linux)](https://docs.microsoft.com/de-de/windows/wsl/install-win10) to get a Linux shell inside of your Windows environment or install Linux in a Virtual Machine (e.g. [VirtualBox](https://www.virtualbox.org/)). We recommend Ubuntu for ease of use and installation. Both installations will take some time so you will need to prepare this beforehand. When using WSL you can run `explorer.exe .` to use Explorer to browse files in your current WSL working directory.
 
-### Shell Commands:
+### Shell Commands
 
 - `echo`:  print something in your terminal
 	- `echo "hi there"`
@@ -36,7 +36,7 @@
 
 	- `hexdump -C yourfilename`
 
-	- `hexdump -C -n 64 yourfilename` --> `-n 64` specifies how many
+	- `hexdump -C -n 64 yourfilename` --> `-n 64` specifies how many bytes to get
 
  - `cat`: print the data of a file
  - `head`: print part of a file's data
@@ -48,7 +48,7 @@
 
 - `|` (a pipe): "pipes" data from one command's output stream into a second command's input
 	- `head -c 64 yourfilename | ffmpeg -f rawvideo -s 8x8 -pix_fmt gray -i - youroutputfile`: pipe 64 bytes from a file to ffmpeg and display them as grayscale image (8-bit per pixel) on a square matrix (8 x 8)
-	- `head -c 64 yourfilename | ffmpeg -f rawvideo -s 8x8 -pix_fmt gray -i - -vf scale=500:500 -sws_flags neighbor -y youroutputfile`: same as above but scaled to a larger resolution so we can see something
+	- `head -c 64 yourfilename | ffmpeg -f rawvideo -s 8x8 -pix_fmt gray -i - -vf scale=500:500 -sws_flags neighbor -y youroutputfile`: same as above but scaled to a larger matrix
 
 ### 'i am sitting in a mp3'
 
@@ -72,13 +72,13 @@ do
   ffmpeg -i $f ./out/youroutputfile$i.mp3
 
   # Since successive copies will get progressively quieter we recommend using
-  # the 'loudnorm' filter for normalisation if installed on your system.
+  # the 'loudnorm' filter for normalisation if installed on your system:
 
   # ffmpeg -i $f -af loudnorm=I=-16:TP=-1.5:LRA=11 ./out/youroutputfile$i.mp3
 
-	f=./out/youroutputfile$i.mp3
+  f=./out/youroutputfile$i.mp3
 
-	echo "written to $f"
+  echo "written to $f"
 done
 ```
 
