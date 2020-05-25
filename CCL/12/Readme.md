@@ -52,7 +52,7 @@
 
 ### 'i am sitting in a mp3'
 
-Based on Alvin Lucier's [I Am Sitting In A Room](https://www.youtube.com/watch?v=fAxHlLK3Oyk](https://www.youtube.com/watch?v=fAxHlLK3Oyk), we want to take an mp3-soundfile and recursively compress it using the mp3-encoder again and again.
+Based on Alvin Lucier's [I Am Sitting In A Room](https://www.youtube.com/watch?v=fAxHlLK3Oyk), we want to take a mp3-soundfile and recursively compress it using the mp3-encoder again and again.
 
 For that you first need a (preferably short) mp3-file.
 
