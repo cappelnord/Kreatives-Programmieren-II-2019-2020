@@ -9,7 +9,7 @@ The Hub<br>
 Net Art*
 * 13.05.2020 - **[Netzwerkmusik III](04)** (Vorstellung/Diskussion der Projekte)
 * 20.05.2020 - **[Generative Computergrafik I](05)**
-* 27.05.2020 - Netzwerkmusik IV (Aufführung/Diskussion)
+* 27.05.2020 - **[Netzwerkmusik IV (Aufführung/Diskussion)](06)**
 * 03.06.2020
 * 10.06.2020
 * 17.06.2020
