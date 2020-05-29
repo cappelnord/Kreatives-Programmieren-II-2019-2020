@@ -72,6 +72,6 @@ Defining in terms of:
 
 #### Example
 
-[Fire Example](https://cappelnord.github.io/Kreatives-Programmieren-II-2019-2020/CCL/13/examples/webpd_page/)
+[Fire Example](https://cappelnord.github.io/Kreatives-Programmieren-II-2019-2020/CCL/13/webpd_page/)
 
 ### Transporter
