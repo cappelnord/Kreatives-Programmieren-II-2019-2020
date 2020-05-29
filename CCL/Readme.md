@@ -24,10 +24,10 @@
 * 08.05.2020 - **[Digiatle Präsentationsformate](10)**
 * 15.05.2020 - **[Pure Data und libPd](11)**
 * 22.05.2020 - **[Glitch Praktiken](12)**
+* 29.05.2020 - **[Procedural Audio](13)**
 
 ## Vorausplanung
 
-- 29.05.2020 - **Procedural Audio**
 - 05.06.2020 - **Jann**
 - 12.06.2020 - **Tim**
 - 19.06.2020 - **Line**
