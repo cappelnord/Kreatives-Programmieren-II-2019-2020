@@ -22,7 +22,7 @@ Generative Computergrafik II
 
 ## Aufgabe
 
-Gestaltet ein euer Platten-Cover! Nutzt hierfür Creative Coding Techniken und prozedurale/generative Computergrafik. Benutzt gerne auch weitere Grafiksoftware um Elemente zu arrangieren oder nachzubearbeiten. Genauso könnt ihr Fotos, Videos oder andere Daten als Grundmaterial verwenden. Ziel ist ein statisches Plattencover als Grafik, wenn ihr wollt dürft ihr dieses aber auch gerne als weitere bewegte Version ausarbeiten (als .gif oder Video). Die statische Grafik kann auch ein Schnappschuss aus einem bewegten oder interaktiven Prozess sein. Ich empfehle ein quadratisches Format (wie z.B. LP-Cover oder Bandcamp Album Art). Versucht mit hohen Auflösungen zu arbeiten! Gerne dürft ihr auch versuchen Vektorgrafiken zu erzeugen.
+Gestaltet euer Platten-Cover! Nutzt hierfür Creative Coding Techniken und prozedurale/generative Computergrafik. Benutzt gerne auch weitere Grafiksoftware um Elemente zu arrangieren oder nachzubearbeiten. Genauso könnt ihr Fotos, Videos oder andere Daten als Grundmaterial verwenden. Ziel ist ein statisches Plattencover als Grafik, wenn ihr wollt dürft ihr dieses aber auch gerne als weitere bewegte Version ausarbeiten (als .gif oder Video). Die statische Grafik kann auch ein Schnappschuss aus einem bewegten oder interaktiven Prozess sein. Ich empfehle ein quadratisches Format (wie z.B. LP-Cover oder Bandcamp Album Art). Versucht mit hohen Auflösungen zu arbeiten! Gerne dürft ihr auch versuchen Vektorgrafiken zu erzeugen.
 
 * Wenn ihr andere Tools außer Processing nutzen wollt sprecht es bitte kurz mit Patrick ab
 * Wenn ihr eine Idee habt aber nicht wisst wie ihr sie Umsetzen könnt fragt Patrick oder Michele
