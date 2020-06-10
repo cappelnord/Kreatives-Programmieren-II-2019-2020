@@ -8,4 +8,6 @@ Generative Computergrafik III
 
 ## Farben
 
+## Blending
+
 ## Interaktion
