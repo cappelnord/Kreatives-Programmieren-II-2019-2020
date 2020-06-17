@@ -12,7 +12,7 @@ Net Art*
 * 27.05.2020 - **[Netzwerkmusik IV (Aufführung/Diskussion)](06)**
 * 03.06.2020 - **[Generative Computergrafik II](07)** (Processing)
 * 10.06.2020 - **[Generative Computergrafik III](08)** (Processing 2)
-* 17.06.2020 - **Generative Computergrafik IV** (Processing 3)
+* 17.06.2020 - **[Generative Computergrafik IV](09)** (Processing 3)
 * 24.06.2020 - **Generative Computergrafik V** (Vorstellung/Diskussion der Projekte)
 * 01.07.2020 - **Generative AV I**
 * 08.07.2020 - **Generative AV II**
