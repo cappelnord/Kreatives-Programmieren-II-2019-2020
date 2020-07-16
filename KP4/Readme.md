@@ -14,6 +14,6 @@ Net Art*
 * 10.06.2020 - **[Generative Computergrafik III](08)** (Processing 2)
 * 17.06.2020 - **[Generative Computergrafik IV](09)** (Processing 3)
 * 24.06.2020 - **Generative Computergrafik V** (Vorstellung/Diskussion der Projekte)
-* 01.07.2020 - **Generative AV I**
-* 08.07.2020 - **Generative AV II**
-* 15.07.2020 - Semesterabschluss
+* 01.07.2020 - **[GLSL/Shader](https://github.com/cappelnord/AudioLiveShaderPlayground)**
+* 08.07.2020 - **[GLSL/Shader](https://github.com/cappelnord/AudioLiveShaderPlayground)**
+* 15.07.2020 - **Abschluss & [GLSL/Shader](https://github.com/cappelnord/AudioLiveShaderPlayground)**
