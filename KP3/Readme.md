@@ -16,12 +16,12 @@
 * 08.01.2020 - [**Umwelt &amp; Simulation I**](12)
 * 15.01.2020 - [**Umwelt &amp; Simulation II**](13) (Kurzreferate)<br />
 *Chomsky Grammatiken*<br />
-*L-Systeme in der Musik*
+*L-Systeme in der Musik*<br />
 *L-Systeme (in der Biologie)*
 * 22.01.2020 - [**Umwelt &amp; Simulation III**](14) (Kurzreferate)<br />
 *Zelluläre Automaten*<br />
 *Schwarmverhalten &amp; Simulation*<br />
-*Fraktale*<br />
+*Fraktale*
 * 29.01.2020 - [**Umwelt &amp; Simulation IV**](15) (Besprechung der Übungsprojekte)
 * 05.02.2020 - [**Semesterabschluss**](16)
 
